@@ -7,4 +7,4 @@
 # git clone https://github.com/07septiembre/September.git
 # cd September
 # chmod 777 *
-# bash 
+# bash @whoami.sh
